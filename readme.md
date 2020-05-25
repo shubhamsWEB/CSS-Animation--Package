@@ -1,6 +1,6 @@
 # CSS ANIMATIONS
 
-**[Animate.css]**(https://animate.style/)
+[Animate.css](https://animate.style/)
 
 ## Installation
 
